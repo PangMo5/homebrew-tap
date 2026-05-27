@@ -14,7 +14,7 @@ cask "swiftycrow" do
 
   zap trash: [
     "~/.config/SwiftyCrow",
-    "~/Library/Caches/io.tuist.SwiftyCrow",
-    "~/Library/Preferences/io.tuist.SwiftyCrow.plist",
+    "~/Library/Caches/dev.PangMo5.SwiftyCrow",
+    "~/Library/Preferences/dev.PangMo5.SwiftyCrow.plist",
   ]
 end
