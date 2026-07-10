@@ -1,6 +1,6 @@
 cask "tatami" do
-  version "1.6.0"
-  sha256 "f3e387cfd5771f327ba847ba26c419a6b2c1fe9fe4ad63b8c2293146b3c28892"
+  version "1.6.1"
+  sha256 "7a4c07a02250ddee8600108a24161ddb1b22328b509d1bf275a775c0095e0643"
 
   url "https://github.com/PangMo5/Tatami/releases/download/v#{version}/Tatami-#{version}.dmg"
   name "Tatami"
