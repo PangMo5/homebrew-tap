@@ -8,7 +8,7 @@ cask "tatami" do
   homepage "https://github.com/PangMo5/Tatami"
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Tatami.app"
 
