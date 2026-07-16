@@ -8,7 +8,7 @@ cask "amado" do
   homepage "https://github.com/PangMo5/Amado"
 
   auto_updates true
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Amado.app"
 
