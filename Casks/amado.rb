@@ -1,6 +1,6 @@
 cask "amado" do
-  version "1.0.1"
-  sha256 "9e0d22c34cfdf6ccb59fef1918a418cbc85a2becd6eab00b8708222fa12d71a8"
+  version "1.0.2"
+  sha256 "c6d746382c0e29f21c47acc0de5a3735b020e2ab5c72652e92de73346cf2d3f8"
 
   url "https://github.com/PangMo5/Amado/releases/download/v#{version}/Amado-#{version}.dmg"
   name "Amado"
