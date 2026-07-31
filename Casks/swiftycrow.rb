@@ -8,7 +8,7 @@ cask "swiftycrow" do
   homepage "https://github.com/PangMo5/SwiftyCrow"
 
   auto_updates true
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "SwiftyCrow.app"
 

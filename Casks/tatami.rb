@@ -4,11 +4,11 @@ cask "tatami" do
 
   url "https://github.com/PangMo5/Tatami/releases/download/v#{version}/Tatami-#{version}.dmg"
   name "Tatami"
-  desc "macOS workspace manager with yabai-style window tiling"
+  desc "macOS workspace manager with BSP window tiling"
   homepage "https://github.com/PangMo5/Tatami"
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Tatami.app"
 
