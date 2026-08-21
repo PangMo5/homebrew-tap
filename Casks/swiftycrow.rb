@@ -1,6 +1,6 @@
 cask "swiftycrow" do
-  version "2.9.0"
-  sha256 "61be0ba61da7edd33cae2de5accb1e1d50439c37aacac2c4d2c3c37627f711cb"
+  version "2.9.1"
+  sha256 "e6c14f5069bb9145a9bbce4a843aa12470337c2b735ce864c4a169c80e11e90e"
 
   url "https://github.com/PangMo5/SwiftyCrow/releases/download/v#{version}/SwiftyCrow-#{version}.dmg"
   name "SwiftyCrow"
